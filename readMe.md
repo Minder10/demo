@@ -4,3 +4,5 @@
   after the initial commit
 
 # And another change
+
+# Now index.html added too
